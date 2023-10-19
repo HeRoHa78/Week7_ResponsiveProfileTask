@@ -189,6 +189,8 @@
     }
 
     .image-container {
+        height: 250px;
+        width: 250px;
         background-image: url('../img/profile4.jpg');
     }
 
